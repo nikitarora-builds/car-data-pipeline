@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.json
+!package.json
+credentials/
+.DS_Store
+data/processed/
+logs/
+airflow.db
+airflow.cfg
+src/__init__.py
+src/**/__init__.py
